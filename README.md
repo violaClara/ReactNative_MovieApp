@@ -52,11 +52,11 @@ Welcome to the **Movie App**, a React Native application that provides an immers
 
 ## 📸 Screenshots
 
-| Home Screen | Movie Details | Login |
 
-<img src="ss1.jpeg" alt="Alt text" title="Optional title">
-|------------|--------------|--------|
-| ![Home](https://via.placeholder.com/200) | ![Details](https://via.placeholder.com/200) | ![Login](https://via.placeholder.com/200) |
+
+<img src="ss1.jpeg" alt="Alt text" title="Optional title" width=340 height=640> <img src="ss2.jpeg" alt="Alt text" title="Optional title" width=340 height=1640><img src="ss3.jpeg" alt="Alt text" title="Optional title" width=340 height=640><img src="ss4.jpeg" alt="Alt text" title="Optional title" width=340 height=640>
+
+
 
 
 
