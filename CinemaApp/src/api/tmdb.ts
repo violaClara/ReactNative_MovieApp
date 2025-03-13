@@ -1,4 +1,4 @@
-const API_KEY = "d9c0ed0b527dfda7dc6712e37b2675f2"; // Ganti dengan API key TMDB kamu
+const API_KEY = ""; // Ganti dengan API key TMDB kamu
 const BASE_URL = "https://api.themoviedb.org/3";
 
 /**
